@@ -1,0 +1,19 @@
+name: lab_facial_delivy
+description: Protótipo local e isolado de verificação facial 1:1 para o LAB Facial Delivy.
+publish_to: 'none'
+version: 0.1.1+2
+
+environment:
+  sdk: ^3.13.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  test: 1.31.1
+
+flutter:
+  uses-material-design: true
